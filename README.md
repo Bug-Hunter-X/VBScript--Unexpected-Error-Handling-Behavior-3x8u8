@@ -1,0 +1,1 @@
+This repository contains a VBScript file demonstrating an uncommon error related to custom error handling with `Err.Raise`. The script showcases an issue where improper error handling can lead to silent failures, and provides a corrected version to avoid this issue.
